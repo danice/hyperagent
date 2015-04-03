@@ -1,6 +1,11 @@
 {
   "name": "hyperagent",
-  "version": "0.0.0",
+  "version": "0.4.0",
+  "dependencies": {
+    "q": "~1.0.0",
+    "jquery": "~2.1.0",
+    "uri.js": "~1.14.0"
+  },
   "devDependencies": {
     "coveralls": "^2.10.0",
     "grunt": "^0.4.4",
