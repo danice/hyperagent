@@ -26,5 +26,13 @@
   },
   "scripts": {
     "test": "grunt test-ci"
+  },
+  "jspm": {
+    "directories": {
+      "lib": "lib"
+    },
+    "dependencies": {
+      "urijs": "npm:urijs@1.16.1"
+    }
   }
 }
