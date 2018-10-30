@@ -1,1 +1,1 @@
-module.exports = require('./dist/amd/hyperagent');
+module.exports = require('./lib/hyperagent');
