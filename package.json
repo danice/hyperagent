@@ -4,7 +4,7 @@
   "dependencies": {
     "q": "~1.0.0",
     "jquery": "~2.1.0",
-    "uri.js": "~1.14.0"
+    "urijs": "~1.19.1"
   },
   "devDependencies": {
     "coveralls": "^2.10.0",
